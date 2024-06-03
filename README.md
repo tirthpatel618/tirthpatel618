@@ -14,7 +14,7 @@ Hey there! I'm a **Computer Science student** at the **University of Waterloo**,
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirthpatel618&repo=ESPN-Fantasy-Automation-Bot&theme=github_dark"/>
     </a>   
   </p>
-
+<details>
 
 ## Technologies 🔧
 * Languages: `Python` `C/C++` `Javascript` `Typescript`  `SQL`  `Bash`  
