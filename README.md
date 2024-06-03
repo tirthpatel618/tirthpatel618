@@ -22,6 +22,7 @@ Hey there! I'm a **Computer Science student** at the **University of Waterloo**,
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `MongoDB` `PostgreSQL` `SQLite`
 Send me a message! 🗨️
 
-Email me at: t83patel@uwaterloo.ca
-Connect with me on LinkedIn: www.linkedin.com/in/tirthpatel618
-Learn more about me on my personal website:
+* Email me at: t83patel@uwaterloo.ca
+* Connect with me on LinkedIn: [linkedin.com/in/tirthpatel618/](https://www.linkedin.com/in/tirthpatel618/)
+* Learn more about me on my personal website: 
+
