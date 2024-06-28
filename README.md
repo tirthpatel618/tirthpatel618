@@ -4,7 +4,7 @@ Hey there! I'm a **Computer Science student** at the **University of Waterloo**,
 
 ## Personal Projects 💻
 <details>
-<summary>Click to see some collaborative projects I made with my peers!</summary>
+<summary>Click to see some innovative projects I've created! </summary>
   <br/>
   <p>
     <a href="https://github.com/tirthpatel618/Form_corrector">
