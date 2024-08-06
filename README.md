@@ -7,8 +7,8 @@ Hey there! I'm a **Computer Science student** at the **University of Waterloo**,
 <summary>Click to see some innovative projects I've created! </summary>
   <br/>
   <p>
-    <a href="https://github.com/tirthpatel618/Form_corrector">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirthpatel618&repo=Form_corrector&theme=github_dark"/>
+    <a href="https://github.com/tirthpatel618/FoexTrading">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirthpatel618&repo=ForexTrading&theme=github_dark"/>
     </a>
     <a href="https://github.com/tirthpatel618/ESPN-Fantasy-Automation-Bot">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirthpatel618&repo=ESPN-Fantasy-Automation-Bot&theme=github_dark"/>
