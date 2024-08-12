@@ -27,5 +27,5 @@ Send me a message! 🗨️
 
 * Email me at: t83patel@uwaterloo.ca
 * Connect with me on LinkedIn: [linkedin.com/in/tirthpatel618/](https://www.linkedin.com/in/tirthpatel618/)
-* Learn more about me on my personal website: 
+* Learn more about me on my personal website: [tirthpatel618.me](https://tirthpatel618.vercel.app)
 
