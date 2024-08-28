@@ -23,7 +23,8 @@ Hey there! I'm a **Computer Science student** at the **University of Waterloo**,
 * Languages: `Python` `C/C++` `Javascript` `Typescript`  `SQL`  `Bash`  
 * Frameworks/Libraries: `Flask` `Express.js` `Node.js` `React.js` `Next.js` `TensorFlow` `PyTorch` `OpenCV` `Keras` `REST API`
 * Developer Tools: `Linux` `Git` `AWS`  `MongoDB` `PostgreSQL` `SQLite` `SQLdeveloper` 
-Send me a message! 🗨️
+
+## Send me a message! 🗨️
 
 * Email me at: t83patel@uwaterloo.ca
 * Connect with me on LinkedIn: [linkedin.com/in/tirthpatel618/](https://www.linkedin.com/in/tirthpatel618/)
