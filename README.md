@@ -21,8 +21,8 @@ Hey there! I'm a **Computer Science student** at the **University of Waterloo**,
 
 ## Technologies 🔧
 * Languages: `Python` `C/C++` `Javascript` `Typescript`  `SQL`  `Bash`  
-* Frameworks/Libraries: `Flask` `Express.js` `Node.js` `React.js` `Next.js` `TensorFlow` `PyTorch` `OpenCV` `Keras` `REST API`
-* Developer Tools: `Linux` `Git` `AWS (Redshift, Glue, Lambda, EC2)`  `MongoDB` `PostgreSQL` `MySQL` `` 
+* Frameworks/Libraries: `Flask` `Express.js` `Node.js` `React.js` `Next.js` `TensorFlow` `PyTorch` `OpenCV` `Keras` 
+* Developer Tools: `Linux` `Git` `AWS (Redshift, Glue, Lambda, EC2)`  `MongoDB` `PostgreSQL` `MySQL` 
 
 ## Send me a message! 🗨️
 
