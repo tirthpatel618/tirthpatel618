@@ -1,23 +1,6 @@
 # Welcome to my GitHub page! I'm Tirth 👋
 
-Hey there! I'm a **Computer Science student** at the **University of Waterloo**, currently working as a Software Developer Intern at the Ontario Ministry of Health. I'm seeking 2025 winter internship opportunities!
-
-## Personal Projects 💻
-<details>
-<summary>Click to see some innovative projects I've created! </summary>
-  <br/>
-  <p>
-    <a href="https://github.com/tirthpatel618/ForexTrading">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirthpatel618&repo=ForexTrading&theme=github_dark"/>
-    </a>
-    <a href="https://github.com/tirthpatel618/ESPN-Fantasy-Automation-Bot">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirthpatel618&repo=ESPN-Fantasy-Automation-Bot&theme=github_dark"/>
-    </a>   
-    <a href="https://github.com/tirthpatel618/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirthpatel618&repo=ESPN-Fantasy-Automation-Bot&theme=github_dark"/>
-    </a> 
-  </p>
-</details>
+Hey there! I'm a **Computer Science student** at the **University of Waterloo**, currently working as a Machine Learning Engineer at BMO Financial Group
 
 ## Technologies 🔧
 * Languages: `Python` `C/C++` `Javascript` `Typescript`  `SQL`  `Bash`  
