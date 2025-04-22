@@ -1,6 +1,9 @@
 hi i'm Tirth! i study cs at the University of Waterloo
 
+
+
 Send me a message! 🗨️
+
 Email me at: t83patel@uwaterloo.ca
 
 
