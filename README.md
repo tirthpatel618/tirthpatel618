@@ -3,7 +3,7 @@
 Hey there! I'm a **Computer Science student** at the **University of Waterloo**, currently working as a Machine Learning Engineer at BMO Financial Group
 
 ## Technologies 🔧
-* Languages: `Python` `C/C++` `Javascript` `Typescript`  `SQL`  `Bash`  
+* Languages: `Python` `C++` `Go` `Javascript` `Typescript`  `SQL`  `Bash`  
 * Frameworks/Libraries: `Flask` `Express.js` `Node.js` `React.js` `Next.js` `TensorFlow` `PyTorch` `OpenCV` `Keras` 
 * Developer Tools: `Linux` `Git` `AWS (Redshift, Glue, Lambda, EC2)`  `MongoDB` `PostgreSQL` `MySQL` 
 
